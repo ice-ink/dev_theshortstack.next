@@ -7,6 +7,8 @@ fancy next based template packed for butt stuff!
 ## todo
 
 - [] revert dev branch to next init with ts/tw
+   - cmd: `git worktree add ../branch-name branch-name`
+  
 - [] add shadcn?
 - [] research database support?
 - [] research feed framework or implementation
